@@ -4,14 +4,6 @@
         Title="Магазин" Height="530" Width="500">
     <StackPanel>
 
-        <!-- Верхнее меню -->
-        <Menu>
-            <MenuItem Header="Задания">
-                <MenuItem Header="Задание 1 — Магазин" Click="OpenShop_Click"/>
-                <MenuItem Header="Задание 2 — Плейлист" Click="OpenPlaylist_Click"/>
-            </MenuItem>
-        </Menu>
-
         <StackPanel Margin="10">
             <TextBlock Text="Название товара:"/>
             <TextBox x:Name="txtName" Margin="0,0,0,5"/>
