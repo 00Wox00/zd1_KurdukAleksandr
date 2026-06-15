@@ -1,16 +1,8 @@
 ﻿<Window x:Class="shop.PlaylistWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Плейлист" Height="520" Width="450">
+        Title="Плейлист" Height="540" Width="500">
     <StackPanel>
-
-        <!-- Верхнее меню -->
-        <Menu>
-            <MenuItem Header="Задания">
-                <MenuItem Header="Задание 1 — Магазин" Click="OpenShop_Click"/>
-                <MenuItem Header="Задание 2 — Плейлист" Click="OpenPlaylist_Click"/>
-            </MenuItem>
-        </Menu>
 
         <StackPanel Margin="10">
             <!-- Поля для добавления песни -->
@@ -30,9 +22,9 @@
 
             <!-- Навигация -->
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
-                <Button Content="◀◀ В начало" Click="GoToStart_Click" Margin="5"/>
-                <Button Content="◀ Пред." Click="Previous_Click" Margin="5"/>
-                <Button Content="След. ▶" Click="Next_Click" Margin="5"/>
+                <Button Content="<< В начало" Click="GoToStart_Click" Margin="5"/>
+                <Button Content="< Пред." Click="Previous_Click" Margin="5"/>
+                <Button Content="След. >" Click="Next_Click" Margin="5"/>
             </StackPanel>
 
             <!-- Переход по индексу -->
