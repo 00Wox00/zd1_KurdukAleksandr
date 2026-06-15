@@ -22,9 +22,9 @@
 
             <!-- Навигация -->
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
-                <Button Content="<< В начало" Click="GoToStart_Click" Margin="5"/>
-                <Button Content="< Пред." Click="Previous_Click" Margin="5"/>
-                <Button Content="След. >" Click="Next_Click" Margin="5"/>
+                <Button Content="◀◀ В начало" Click="GoToStart_Click" Margin="5"/>
+                <Button Content="◀ Пред." Click="Previous_Click" Margin="5"/>
+                <Button Content="След. ▶" Click="Next_Click" Margin="5"/>
             </StackPanel>
 
             <!-- Переход по индексу -->
