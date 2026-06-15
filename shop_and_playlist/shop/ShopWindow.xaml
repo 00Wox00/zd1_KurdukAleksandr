@@ -1,0 +1,35 @@
+﻿<Window x:Class="shop.ShopWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Магазин" Height="500" Width="500">
+    <StackPanel>
+
+        <!-- Верхнее меню -->
+        <Menu>
+            <MenuItem Header="Задания">
+                <MenuItem Header="Задание 1 — Магазин" Click="OpenShop_Click"/>
+                <MenuItem Header="Задание 2 — Плейлист" Click="OpenPlaylist_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel Margin="10">
+            <TextBlock Text="Название товара:"/>
+            <TextBox x:Name="txtName" Margin="0,0,0,5"/>
+            <TextBlock Text="Цена:"/>
+            <TextBox x:Name="txtPrice" Margin="0,0,0,5"/>
+            <TextBlock Text="Количество:"/>
+            <TextBox x:Name="txtCount" Margin="0,0,0,5"/>
+            <Button Content="Добавить товар" Click="AddProduct_Click" Margin="0,0,0,10"/>
+            <TextBlock Text="Название для продажи:"/>
+            <TextBox x:Name="txtSellName" Margin="0,0,0,5"/>
+            <TextBlock Text="Количество для продажи:"/>
+            <TextBox x:Name="txtSellCount" Margin="0,0,0,5"/>
+            <Button Content="Продать" Click="Sell_Click" Margin="0,0,0,10"/>
+            <Button Content="Обновить список" Click="Refresh_Click" Margin="0,0,0,5"/>
+            <ListBox x:Name="lstProducts" Height="150" Margin="0,0,0,5"/>
+            <TextBlock x:Name="txtProfit" Text="Прибыль: 0 руб." FontWeight="Bold"/>
+            <TextBlock x:Name="txtStatus" Foreground="Red"/>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasha\\source\\repos\\shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\playlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\playlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\shopwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\shopwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\playlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\playlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\shopwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\shopwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|c:\\users\\sasha\\source\\repos\\shop\\shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A45BF3-32AE-42F4-B499-515D10F81454}|shop\\shop.csproj|solutionrelative:shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaylistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\PlaylistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "shop\\PlaylistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\PlaylistWindow.xaml.cs",
+              "RelativeToolTip": "shop\\PlaylistWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:18:50.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaylistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\PlaylistWindow.xaml",
+              "RelativeDocumentMoniker": "shop\\PlaylistWindow.xaml",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\PlaylistWindow.xaml",
+              "RelativeToolTip": "shop\\PlaylistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T10:16:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\ShopWindow.xaml.cs",
+              "RelativeDocumentMoniker": "shop\\ShopWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\ShopWindow.xaml.cs",
+              "RelativeToolTip": "shop\\ShopWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:15:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\ShopWindow.xaml",
+              "RelativeDocumentMoniker": "shop\\ShopWindow.xaml",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\ShopWindow.xaml",
+              "RelativeToolTip": "shop\\ShopWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T10:14:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Playlist.cs",
+              "RelativeDocumentMoniker": "shop\\Playlist.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Playlist.cs",
+              "RelativeToolTip": "shop\\Playlist.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:05:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Song.cs",
+              "RelativeDocumentMoniker": "shop\\Song.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Song.cs",
+              "RelativeToolTip": "shop\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:04:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Shop.cs",
+              "RelativeDocumentMoniker": "shop\\Shop.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Shop.cs",
+              "RelativeToolTip": "shop\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:35:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Product.cs",
+              "RelativeDocumentMoniker": "shop\\Product.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\Product.cs",
+              "RelativeToolTip": "shop\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:32:02.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "shop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\MainWindow.xaml",
+              "RelativeToolTip": "shop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T08:31:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "shop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\shop\\shop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "shop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:31:02.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\cat\cat\bin\Debug\net8.0\cat.exe
+C:\Users\sasha\source\repos\cat\cat\bin\Debug\net8.0\cat.deps.json
+C:\Users\sasha\source\repos\cat\cat\bin\Debug\net8.0\cat.runtimeconfig.json
+C:\Users\sasha\source\repos\cat\cat\bin\Debug\net8.0\cat.dll
+C:\Users\sasha\source\repos\cat\cat\bin\Debug\net8.0\cat.pdb
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.AssemblyInfo.cs
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.dll
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\refint\cat.dll
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.pdb
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\cat.genruntimeconfig.cache
+C:\Users\sasha\source\repos\cat\cat\obj\Debug\net8.0\ref\cat.dll
