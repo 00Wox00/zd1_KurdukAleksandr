@@ -1,7 +1,7 @@
 ﻿<Window x:Class="shop.ShopWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Магазин" Height="500" Width="500">
+        Title="Магазин" Height="530" Width="500">
     <StackPanel>
 
         <!-- Верхнее меню -->
